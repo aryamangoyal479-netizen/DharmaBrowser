@@ -1,0 +1,4 @@
+download all the files in this folder then put it in a folder in ur
+ pc (must hav python installed) then open cmd in the folder the do 
+ "pip install PyQt6" then after this completes re open cmd and type 
+ "python browser.py" and ur browser opens!
